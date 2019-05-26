@@ -28,34 +28,34 @@ rebase and create branches from **origin**, never from a local branch because we
 When developing a feature, we always use **rebase** to update our current feature from **release**.
 We squash the **feature** branches into one commit, so it's easy to rollback a feature once it is reviewed and ready to merge.
 
-<pre>
+```bash
 # Being on the feature/my-tasty-feature branch
 
 git fetch origin
 git rebase origin/release
-</pre>
+```
 
 Creating a feature branch:
 
-<pre>
+```bash
 # Being on master or release or any other branch different from the one created
 
 git fetch origin
 git checkout -b feature/my-tasty-feature origin/release
-</pre>
+```
 
 ## First problem and solution
 
 We need to update our code with **release** because we don't have the latest changes. In our
 feature branch we can do:
 
-<pre>
+```bash
 # Being on the feature/my-tasty-feature branch
 
 git fetch origin
 git rebase origin/release
 git push -f feature/my-tasty-feature
-</pre>
+```
 
 `-f` can only be used on an unmerged personal branch. It means *force* and it rewrites
 the git history, so we need to be very careful when using it.
@@ -68,11 +68,11 @@ commits, we need to make our branch changes into one!
 First, we need to know how many commits do we want to add
 to **release** and squash them.
 
-<pre>
+```bash
 # Being on the feature/my-tasty-feature branch
 
 git rebase -i HEAD~5 # where five is the number of commits
-</pre>
+```
 
 We replace all the first lines **pick** for **squash** except in the first line and save.
 
@@ -92,20 +92,20 @@ Done!
 
 Now we need to fix the conflict:
 
-<pre>
+```bash
 # Being on the feature/my-tasty-feature branch
 
 git rebase origin/release
-</pre>
+```
 
 We fix the conflicts on our favorite editor and add the files, then
 
-<pre>
+```bash
 # Being on the feature/my-tasty-feature branch
 
 git rebase --continue
 git push -f feature/my-tasty-feature
-</pre>
+```
 
 ## Third problem and solution
 
@@ -123,7 +123,7 @@ to **release** and squash them, so we'll do the *second solution* entirely.
 
 After doing the second solution, we'll do the following.
 
-<pre>
+```bash
 # We are on the feature/my-tasty-feature branch
 
 git fetch origin
@@ -142,7 +142,7 @@ git log feature/my-backup-branch
 # We copy the last commit hash (see screenshot below)
 git cherry-pick the-hash-we-have-copied
 git push -f origin/feature/my-tasty-branch
-</pre>
+```
 
 ![](/../assets/images/git-problems6.png)
 
