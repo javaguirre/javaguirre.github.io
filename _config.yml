@@ -16,7 +16,7 @@
 title: Javier Aguirre
 email: contacto@javaguirre.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Architect, Blockchain, AI and rock enthusiast. Cofounder @ The Neon Project https://theneonproject.org, an agency for the digital transformation on People, Processes and Products through technology, specialized in blockchain, conversational interfaces, data analysis, and complex problems
+  Software Architect, Blockchain, AI and rock enthusiast. Cofounder @ The Neon Project, an agency for the digital transformation on People, Processes and Products through technology, specialized in blockchain, conversational interfaces, data analysis, and complex problems
 twitter_username: javaguirre
 github_username: javaguirre
 minimal_mistakes_skin: air
@@ -60,7 +60,7 @@ author:
   avatar : "/assets/images/profile.jpg"
   bio    : "Software Architect, Blockchain, AI and rock enthusiast. Cofounder @ The Neon Project https://theneonproject.org, an agency for the digital transformation on People, Processes and Products through technology, specialized in blockchain, conversational interfaces, data analysis, and complex problems"
   links:
-    - label: "Website"
+    - label: "The Neon Project"
       icon: "fas fa-fw fa-link"
       url: "https://theneonproject.org"
     - label: "LinkedIn"

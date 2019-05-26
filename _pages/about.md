@@ -3,6 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi! I'm Javier Aguirre, software architect and team leader, cofounder @ [The Neon Project](https://theneonproject.org).
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am happy guy who likes what he does for a living, learning and solving all kind of problems with software, healthy environments and nice people.
+
+I like to release my solutions whenever possible, It's a good way of giving back to the community, improving your coding skills and learning from others. I use Github and my personal blog for that.
+
+[The Neon Project](https://theneonproject.org) is an agency for the digital transformation on People, Processes and Products through technology, specialized in blockchain, conversational interfaces, data analysis, and complex problems.
+
+[Linkedin](https://www.linkedin.com/in/javaguirre/)<br />
+[Github](https://github.com/javaguirre)<br />
+[Twitter](https://twitter.com/javaguirre)
