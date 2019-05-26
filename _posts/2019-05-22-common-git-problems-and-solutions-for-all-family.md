@@ -1,11 +1,8 @@
 ---
 title: Common Git problems and easy incremental solutions for all the family
-layout: post
-subclass: 'post tag-test tag-content'
 date: 2019-05-22 22:21:00 +0000
 tags: git
 cover: '/../assets/images/git.png'
-navigation: True
 ---
 
 Git is a gentle beast, but beasts are wild, and they require taming, here are some tips

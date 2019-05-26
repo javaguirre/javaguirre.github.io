@@ -2,8 +2,6 @@
 title: 'Save and Load requests in rest-client for Atom'
 date: 2016-03-16 08:28:46 +0000
 tags: atom rest-client
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 Some months ago I started to use the [Atom editor][atom] and got deep into how the packages and themes work. After some months I moved back to Emacs and some of the contributions I started were left unfinished.
 

@@ -2,8 +2,6 @@
 title: 'My two weeks using Atom'
 date: 2015-01-28 21:20:45 +0000
 tags: vim atom rest-client
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 I've been using the [Atom editor][atom_editor] for a couple of weeks, to give it a try. I found it appealing, but not yet for the every day use. Here is why.
 

@@ -2,8 +2,6 @@
 title: 'Sentry and Ansible, process and thoughts'
 date: 2015-10-06 15:00:45 +0000
 tags: django ansible sentry postgresql mysql
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 At [Selltag][selltag] we have been migrating some services to have a more organized environment. It has been the perfect moment to configure and *document* the servers deploy using [Ansible][ansible]. [The example code is on Github][gh_repo].
 

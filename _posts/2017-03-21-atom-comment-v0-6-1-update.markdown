@@ -1,12 +1,8 @@
 ---
-layout: post
-subclass: 'post tag-test tag-content'
 title: 'Atom comment v0.6.1'
 date: 2017-03-21 16:30:34 +0000
 tags: atom javascript
-layout: post
 cover: '/assets/images/cover3.jpg'
-navigation: True
 logo: '/assets/images/profile.png'
 ---
 Hi!

@@ -2,8 +2,6 @@
 title: 'Back to my own editor war'
 date: 2016-08-22 14:16:14 +0000
 tags: sublime emacs atom
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 When I thought I was gonna keep using **Emacs** I realised I needed to overcome some performance problems that weren't easy to fix. That made me start my research again.
 

@@ -2,8 +2,6 @@
 title: 'Adios Selltag'
 date: 2015-10-19 16:14:01 +0000
 tags: selltag
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 [Selltag][selltag], la novia a la que hemos cortejado, hemos comprado bebidas, ella nos las ha comprado a nosotros también, invitado al cine, bonito mientras duró, pero desgraciadamente cayó por el precipicio y nos caímos detrás con ella.
 

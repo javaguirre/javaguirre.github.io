@@ -2,8 +2,6 @@
 title: 'Comment package for Atom editor'
 date: 2016-08-15 16:37:37 +0000
 tags: coffee atom
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 A couple of weeks ago I took over a package from [havber](https://github.com/havber), He didn't have time to maintain it anymore and I thought it was a good idea since I didn't like the other packages for this purpose.
 

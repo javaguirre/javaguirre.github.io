@@ -2,8 +2,6 @@
 title: 'Elementary OS, thoughts'
 date: 2015-02-28 10:42:52 +0000
 tags: elementary-os dwm arch
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 Two months ago I left my beloved window tiling manager `dwm` and gave an entire new system a try, [Elementary OS][elementary].
 

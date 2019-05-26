@@ -2,8 +2,6 @@
 title: 'Fixing my performance problems on Emacs'
 date: 2016-10-19 11:34:35 +0000
 tags: emacs
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 As you might know, I've had [several performance problems on Emacs with a large project](https://javaguirre.me/2016/08/22/back-to-my-own-editor-war/), that made me explore other editors.
 

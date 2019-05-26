@@ -4,6 +4,7 @@ date: 2019-05-22 22:21:00 +0000
 tags: git
 cover: ''
 toc: true
+published: false
 ---
 
 Debugging code, sometimes painful, sometimes funny, but always an interesting task. If we don't use the right tools It's where the developer can waste more time.

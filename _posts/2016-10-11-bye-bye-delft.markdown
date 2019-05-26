@@ -2,8 +2,6 @@
 title: 'Bye bye Delft'
 date: 2016-10-11 05:39:19 +0000
 tags: delft spain
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 After four years living in this amazing city we moved back to Spain, Cordoba.
 

@@ -2,8 +2,6 @@
 title: 'Ample theme for the Atom editor'
 date: 2015-11-09 11:19:49 +0000
 tags: emacs atom ample theme
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 Last week I spent some time working on two themes based on [the one I use for Emacs, Ample][emacs], the [ample theme][ample] and the [ample light theme][ample-light].
 

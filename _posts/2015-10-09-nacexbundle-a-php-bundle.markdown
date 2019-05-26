@@ -2,8 +2,6 @@
 title: 'NacexBundle, a PHP bundle'
 date: 2015-10-09 08:53:39 +0000
 tags: symfony php nacex
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 Today I am releasing one of the php bundles we made for Selltag, the [NacexBundle][bundle].
 

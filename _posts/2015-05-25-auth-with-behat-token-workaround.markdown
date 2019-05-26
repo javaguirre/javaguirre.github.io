@@ -2,8 +2,6 @@
 title: 'Auth with Behat token workaround'
 date: 2015-05-25 15:35:26 +0000
 tags: symfony php behat
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 [Behat][behat] is a very nice behaviour-driven framework well suited for *Symfony*.
 
@@ -21,12 +19,12 @@ public function loggedIn($email)
         'User',
         array('email' => $email)
     );
-    
+
     if ($user) {
         $token = new UsernamePasswordToken(
             $user, null, 'main', $user->getRoles()
         );
-        
+
         $this->security->setToken($token);
 
         $granted = $this->security->isGranted('ROLE_USER');
@@ -79,25 +77,25 @@ class TestController extends Controller
     {
         $this->checkTestEnvironment();
         $email = $this->getRequest()->query->get('email');
-        
+
         // Gets a user by email or whatever you want
         $user = $this->getObjectOr404('User', $email);
-        
+
         $this->authenticateUser($user);
-        
+
         return $this->setRedirect('homepage');
     }
-    
+
     private function checkTestEnvironment()
     {
         $env = $this->get('kernel')->getEnvironment();
-        
+
         // Environment::TEST is 'test'
         if ($env != Environment::TEST) {
             throw new AccessDeniedHttpException('No access');
         }
     }
-    
+
     /**
      * Authenticates a user
      *
@@ -137,7 +135,7 @@ public function loggedIn($email)
         'User',
         array('email' => $email)
     );
-    
+
     if ($user) {
         $this->getSession()->visit(
             $this->baseUrl . self::LOGIN_VIEW . '?email=' . $email

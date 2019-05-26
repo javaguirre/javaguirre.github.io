@@ -1,12 +1,8 @@
 ---
-layout: post
-subclass: 'post tag-test tag-content'
 title: 'Testing chaincode on Hyperledger Fabric'
 date: 2019-01-21 22:21:00 +0000
 tags: blockchain hyperledger
-layout: post
 cover: '/assets/images/chains.jpeg'
-navigation: True
 logo: '/assets/images/profile.png'
 ---
 

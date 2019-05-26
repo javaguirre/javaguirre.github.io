@@ -1,12 +1,8 @@
 ---
-layout: post
-subclass: 'post tag-test tag-content'
 title: 'CI/CD on a Hyperledger Fabric project'
 date: 2019-02-25 22:21:00 +0000
 tags: blockchain hyperledger
-layout: post
 cover: '/assets/images/chains.jpeg'
-navigation: True
 logo: '/assets/images/profile.png'
 ---
 

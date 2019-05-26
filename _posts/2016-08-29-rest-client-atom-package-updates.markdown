@@ -2,8 +2,6 @@
 title: 'Rest-client atom package updates'
 date: 2016-08-29 11:14:45 +0000
 tags: coffee atom rest
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 I had a bit of time today to close some open issues:
 

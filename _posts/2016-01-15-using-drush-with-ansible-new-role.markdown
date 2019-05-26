@@ -2,8 +2,6 @@
 title: 'Using Drush (Drupal) with Ansible, new role'
 date: 2016-01-15 13:57:36 +0000
 tags: ansible drupal drush
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 [Drush][drush] is a good solution to automatise installation and configuration in Drupal from the command line, if we combine It with [Ansible][ans] It makes Drupal *environment* replication a charm.
 

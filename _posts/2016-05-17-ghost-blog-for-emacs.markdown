@@ -2,8 +2,6 @@
 title: 'Ghost blog for Emacs'
 date: 2016-05-17 13:06:04 +0000
 tags: emacs lisp ghost-post
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 Since I decided the path to the best editor for me is finished (for now) I decided to improve my experience with Emacs. I started learning some Elisp and the best way of learning something is always solving a problem or extending functionality.
 

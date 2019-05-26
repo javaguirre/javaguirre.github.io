@@ -2,8 +2,6 @@
 title: 'Atom comment package release 0.4.0'
 date: 2016-08-18 10:31:28 +0000
 tags: atom javascript comment
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 Today I've released the [0.4.0](https://atom.io/packages/comment) version of the [comment package for Atom](https://github.com/javaguirre/comment).
 

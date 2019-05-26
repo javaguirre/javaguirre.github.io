@@ -2,8 +2,6 @@
 title: 'Ansible Ghost role, improvements'
 date: 2015-10-07 14:39:28 +0000
 tags: ghost-post ansible
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 Hi!
 

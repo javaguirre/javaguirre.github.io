@@ -2,8 +2,6 @@
 title: 'Ansible role releases, Ghost and Drupal dependencies'
 date: 2016-01-17 12:23:41 +0000
 tags: ansible ghost-post drupal
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 Releases updates:
 

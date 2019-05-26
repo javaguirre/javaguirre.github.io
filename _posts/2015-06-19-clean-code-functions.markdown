@@ -2,8 +2,6 @@
 title: 'Clean Code, functions'
 date: 2015-06-19 14:53:28 +0000
 tags: clean architecture functions
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 I am reading [Clean Code: A Handbook of Agile Software Craftmanship][clean_code]. Here my highlights from the *Functions* chapter.
 
@@ -23,7 +21,7 @@ If you want to change the behaviour with a boolean indicates the function is doi
 
 >  Flag arguments are ugly. Passing a boolean into a function is a truly terrible practice.
 
-Use classes if you need to abstract functionality instead of a big list of arguments(more than three). 
+Use classes if you need to abstract functionality instead of a big list of arguments(more than three).
 
 >  Reducing the number of arguments by creating objects out of them may seem like cheating, but it’s not. When groups of variables are passed together, the way x and y are in the example above, they are likely part of a concept that deserves a name of its own
 

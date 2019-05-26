@@ -2,8 +2,6 @@
 title: 'H4ckademy workshop'
 date: 2015-12-04 10:27:00 +0000
 tags: golang python coffeescript
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 Last week I was in Madrid and I had the opportunity to contribute a bit to [H4ckademy][h4ckademy], a great iniciative from my friend [Israel Gutiérrez][isra].
 

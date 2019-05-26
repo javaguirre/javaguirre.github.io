@@ -2,8 +2,6 @@
 title: 'ExtendedArray for PHP'
 date: 2015-06-18 16:21:32 +0000
 tags: php composer
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 Today I released an `ExtendedArray` for **PHP**, you can [check It out in Github][repo].
 

@@ -2,8 +2,6 @@
 title: 'Using Cyberghost VPN on ArchLinux'
 date: 2015-03-15 18:41:13 +0000
 tags: archlinux vpn openvpn
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 Last week I started using a VPN, You can read in this [lifehacker article on why you could use one][lifehacker].
 

@@ -2,8 +2,6 @@
 title: 'Event-driven architecture: Chat with Python and Tornado'
 date: 2015-10-20 16:28:12 +0000
 tags: tornado python chat event-driven
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 At [Selltag][selltag_project] we built a simple chat service based on events, keeping It as simple as possible.
 
@@ -35,11 +33,11 @@ We have initialized the active listeners in the app.
 <pre><code class="language-python">def __init__(self, router):
     # ...
     self.listeners = [AndroidListener, IosListener, PersistListener]
-    
+
 def start_listeners(self):
     for listener in self.listeners:
         self.started_listeners.append(listener(self.options))
-        
+
 # ...
 </code></pre>
 
@@ -51,7 +49,7 @@ class AndroidListener():
     def __init__(self, options):
         # ...
         signal(Event.NEW_MESSAGE).connect(self.send)
-        
+
     def send(self, message):
         # Send push notification
         logging.info('SENDING ANDROID PUSH')

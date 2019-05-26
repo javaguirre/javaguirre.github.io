@@ -2,8 +2,6 @@
 title: 'Rest-client for Atom, StrictSSL option'
 date: 2016-04-20 08:31:10 +0000
 tags: atom rest-client coffeescript
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 [@watsonjon](https://github.com/watsonjon) has implemented a [StrictSSL option](https://github.com/ddavison/rest-client/pull/34) so
 It's possible to use the rest client with self-signed certificates (handy for development), thank you!

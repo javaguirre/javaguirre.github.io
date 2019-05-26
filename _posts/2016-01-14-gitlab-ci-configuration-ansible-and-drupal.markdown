@@ -2,8 +2,6 @@
 title: 'Gitlab CI configuration, Ansible and Drupal'
 date: 2016-01-14 13:11:50 +0000
 tags: ansible ci gitlab drupal
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 Yesterday I wrote about [how I configured the Gitlab CI runner for my projects][ci], now I'm gonna show you how I configured the testing environment for [Ansible][ans] provision and a custom Drupal module I'm developing.
 

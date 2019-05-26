@@ -2,8 +2,6 @@
 title: 'i3, the tiling window manager'
 date: 2015-03-24 17:25:00 +0000
 tags: dwm i3
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 This year I've been in a journey to be more comfortable with my window manager/desktop, `dwm` served me well for a long time, but I needed more flexibility and ease of configuration.
 

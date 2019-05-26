@@ -2,8 +2,6 @@
 title: 'Chromecast, first steps'
 date: 2015-04-28 06:15:52 +0000
 tags: chromecast development
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 A friend of mine gave me a Chromecast for my birthday, and I gotta say I found it very nice and full of possibilities. Plenty of Android apps are prepared for streaming to chromecast and there are a few games that proves the potential of the platform too.
 

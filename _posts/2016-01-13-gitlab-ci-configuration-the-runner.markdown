@@ -2,8 +2,6 @@
 title: 'Gitlab CI configuration, the runner'
 date: 2016-01-13 12:52:35 +0000
 tags: gitlab ci testing
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 A month ago I started working in a new project, Last time I wrote about how I built [my development environment][post] from the Virtual Appliance received, today I'm gonna tell you about how I set up [Gitlab CI][gitlab] for continuous integration, our repositories are stored in a **Gitlab CE** instance.
 
@@ -53,7 +51,7 @@ concurrent = 1
   url = "https://gitlab.com/ci"
   token = "tokenrepo"
   tls-skip-verify = false
-  tls-ca-file = ""  
+  tls-ca-file = ""
   name = "surf"
   executor = "ssh"
   [runners.ssh]

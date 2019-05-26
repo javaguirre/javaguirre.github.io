@@ -2,8 +2,6 @@
 title: 'javaguirre.ghost, my first Ansible role'
 date: 2015-06-01 19:21:31 +0000
 tags: ghost-post ansible
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 Yesterday I created [my first Ansible role, a role to manage, configure and install Ghost][ghost_ansible], [the blogging platform][ghost].
 

@@ -2,8 +2,6 @@
 title: 'Upgrade NixOS packages: geary, spideroak, phpcs'
 date: 2015-10-12 15:21:32 +0000
 tags: nixos spideroak geary phpcs
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 First an article about [what's NixOS trying to achieve][article] and [NixOS][nixos] if you want to know what is all about.
 

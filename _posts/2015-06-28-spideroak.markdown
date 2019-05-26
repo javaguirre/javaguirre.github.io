@@ -2,8 +2,6 @@
 title: 'Spideroak'
 date: 2015-06-28 17:33:14 +0000
 tags: spideroak backup
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 I've been using a new backup solution, [SpiderOak][spideroak]. SpiderOak is a Zero-knowledge solution, that means 100% of the data is private and only readable by you, ensuring confidentiality of your data.
 

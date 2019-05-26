@@ -2,8 +2,6 @@
 title: 'Ansible and the Galaxy, roles'
 date: 2015-05-31 18:13:58 +0000
 tags: ansible deploy
-layout: post
-subclass: 'post tag-test tag-content'
 ---
 [According to their site][ansible_web],
 
@@ -30,27 +28,27 @@ So I installed [mysql role by bennojoy][mysql_ansible], Let's see how to use It.
 In my case I am using this `Vagrantfile` to test the configuration easily.
 
 <pre><code class="language-ruby">Vagrant.configure(2) do |config|
-  config.vm.box = "ubuntu/trusty64"              
-  
-  config.vm.provision "ansible" do |ansible|     
-    ansible.playbook = "site.yml"       
-  end                                              
+  config.vm.box = "ubuntu/trusty64"
+
+  config.vm.provision "ansible" do |ansible|
+    ansible.playbook = "site.yml"
+  end
 end
 </code></pre>
 
 The `site.yml` will be our main Ansible configuration file.
 
-<pre><code class="language-ruby">--- 
+<pre><code class="language-ruby">---
 - name: Example
   hosts: all
   remote_user: vagrant
   sudo: true
-  
-  vars_files:                                  
+
+  vars_files:
     - mysql.yml
-    
-  roles:                                     
-    - bennojoy.mysql                        
+
+  roles:
+    - bennojoy.mysql
 </code></pre>
 
 Briefly, `hosts` defines which hosts will this `playbook`([Ansible's configuration, deployment and orchestration language][ansible_playbook]) be run, the user will be `vagrant` and Ansible should use *sudo* to run It. We added our installed `bennojoy.mysql` role in the roles section, and we will override the necessary variables defined in this role in the `mysql.yml` file.
