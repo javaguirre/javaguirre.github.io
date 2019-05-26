@@ -4,6 +4,7 @@ date: 2019-02-25 22:21:00 +0000
 tags: blockchain hyperledger
 cover: '/assets/images/chains.jpeg'
 logo: '/assets/images/profile.png'
+classes: wide
 ---
 
 Today we bring you the second post of this series of technical articles regarding development with Hyperledger Fabric.

@@ -4,6 +4,7 @@ date: 2019-01-21 22:21:00 +0000
 tags: blockchain hyperledger
 cover: '/assets/images/chains.jpeg'
 logo: '/assets/images/profile.png'
+classes: wide
 ---
 
 [Hyperledger](https://www.hyperledger.org/) is the Blockchain family of tools and frameworks for permissioned networks. At [The Neon Project]() we've been
