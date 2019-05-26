@@ -4,6 +4,7 @@ date: 2019-05-22 22:21:00 +0000
 tags: git
 cover: '/../assets/images/git.png'
 classes: wide
+toc: true
 ---
 
 Git is a gentle beast, but beasts are wild, and they require taming, here are some tips
