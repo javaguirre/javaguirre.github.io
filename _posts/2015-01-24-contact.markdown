@@ -1,0 +1,12 @@
+---
+title: 'Contact'
+date: 2015-01-24 15:53:28 +0000
+tags: 
+layout: post
+subclass: 'post tag-test tag-content'
+---
+[Contact me][contact] for a free consultation about how I can help you with your next project.
+
+We’ll find a way to work together and make your project come true.
+
+[contact]: mailto:hello@javaguirre.net
