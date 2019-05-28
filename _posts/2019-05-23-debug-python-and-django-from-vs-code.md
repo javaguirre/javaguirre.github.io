@@ -1,7 +1,7 @@
 ---
 title: Debug Python and Django easily from Visual Studio Code
 date: 2019-05-22 22:21:00 +0000
-tags: git
+tags: python vscode django
 cover: ''
 toc: true
 published: true
