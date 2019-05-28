@@ -27,8 +27,6 @@ it's essential to spend time researching until we find better tools for the task
 
 Printing has never been cool, but before learning the proper debugging tools, it has always been that quick and dirty option to check variable output.
 
-GIF print
-
 ## PDB
 
 **PDB** and **pudb** are great tools! I still use them sometimes when I want to debug something tricky, but for debugging speed purposes
@@ -179,6 +177,5 @@ Now It's when the magic happens! You should be able to do something like this. :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oyKkQzvUVMU"
     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 Do you know more tricks debugging on VS Code? Let me know in the comments!
