@@ -1,9 +1,14 @@
 ---
-title: Dialogflow fullfillment AND webhook together
+title: Upgrade from WebHook to Firebase function on dialogflow
 date: 2019-05-22 22:21:00 +0000
 tags: git
 published: false
 ---
+
+Webhooks have been on Dialogflow for a long time, but if you want to have more versatility
+controlling the responses, you need to use Fulfillment through a Firebase function.
+
+how can we upgrade from webhooks to a Firebase function?
 
 ```javascript
 // See https://github.com/dialogflow/dialogflow-fulfillment-nodejs
@@ -78,7 +83,9 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest(
 );
 ```
 
-```package.json
+package.json
+
+```json
 {
   "name": "dialogflowFirebaseFulfillment",
   "description": "This is the default fulfillment for a Dialogflow agents using Cloud Functions for Firebase",
