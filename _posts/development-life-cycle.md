@@ -37,7 +37,17 @@ The first step in this case is assure two checks are passing within the PR:
 - Gitlab CI will run the tests and tell us if they passed
 - Codacy will tell us if there were big regressions in terms of code complexity, code duplication , standards and code coverage.
 
-If the checks pass a developer in the team will review the PR code for clarity, good patterns, functionality, etc.
+If the checks pass a developer in the team will review the PR code for clarity, good patterns, functionality, etc. If everything goes well the code gets merged to the release branch and, when the sprint ends, to master.
+
+Codacy brings us more functionality than other contenders, such as Danger or Code CLimate, but if you don't like it you might check it out those. You chose COdacy over the others because it gave us a better progress feedback and they have very good code coverage integration, much easier to set up than Code Climate for example. It gave us more than Danger since Danger is usually more used as linter but don't get anything regarding code coverage, for example. Code Climate coverage setup is more complicated and the documentation more fragmented IMHO.
+
+Code integration with many languages, we usually use Python Pylint, Bandit, Prospector, and ESLint for Node, Codacy would read these libraries config in your repos and use that config if it exists, otherwise you can check the configuration items you want from certain tool right from their project settings view.
+
+At that point our CI will get triggered (because we merge to master) and if the tests pass the code will be automatically deployed to our staging environment, usually Heroku, but also AWS/Kubernetes.
+
+When we want to deploy to production, we create a new tag like vYYYY.MM.DD and the CI/CD will trigger the deploy to production.
+
+(Gitlab-CI) example.
 
 GitHub Code reviews.
 Codacy (alternatives, Danger Systems and Code Climate), Duplication, Code Coverage, Security, Complexity, good integration with your Stack, Python, Node, etc.
