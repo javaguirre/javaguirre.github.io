@@ -20,7 +20,7 @@ const { WebhookClient } = require("dialogflow-fulfillment");
 const { Card, Suggestion } = require("dialogflow-fulfillment");
 const requestClient = require("request-promise-native");
 
-const URL = "https://tnp.eu.ngrok.io/hook?token=token";
+const URL = "https://example.com/hook?token=token";
 
 process.env.DEBUG = "dialogflow:debug"; // enables lib debugging statements
 
