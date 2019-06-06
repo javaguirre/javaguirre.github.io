@@ -1,8 +1,7 @@
 ---
-title: Code quality journey
-date: 2019-06-06 22:21:00 +0000
+title: The Journey to control Code Quality
+date: 2019-06-05 22:21:00 +0000
 tags: quality cicd codacy
-toc: true
 published: true
 ---
 
@@ -13,31 +12,33 @@ sometimes going wrong under stress or when lacking experience in a certain techn
 
 ![](https://media.giphy.com/media/xTkcERvSGMZOpp9RkI/giphy.gif)
 
-We sometimes need to write code we're not proud of, but we also have mechanisms nowadays to quantify that and improve its quality. Like boy scouts, we can go back and clean
+We sometimes need to write code we're not proud of, but nowadays we have mechanisms to quantify that and improve its quality. Like boy scouts, we can go back and clean
 the camp, make more tests because we didn't have enough coverage and we could be not catching all the possible bugs.
 
 ![](https://media.giphy.com/media/pFwRzOLfuGHok/giphy.gif)
 
 When I go back and read my code from some time ago, I'm ashamed, and that's a good thing, It means we're growing. Otherwise, we wouldn't notice.
 
-I've always been in the improving code quality path, I know projects and startups need to achieve their goals, otherwise, we all could lose our jobs, but that's why so important to have proper processes and a good CI/CD, control code quality, and measure legacy code so it doesn't grow too much.
+I've always been in the improving code quality path, I know projects and startups need to achieve their goals, otherwise, we all could lose our jobs, but that's why it's so important to have proper processes and a good CI/CD, control code quality, and measure legacy code so it doesn't grow too much.
 
-I've been a testing advocate for years now. I know what we should test and what is more challenging to test. Why should we refactor if our tests are too complex because we have an architecture problem, what parts are more likely to be problematic, and how to tackle these kinds of refactors. There is still always doubt, risk and terror.
+I've been a testing advocate for years now. I know what we should test and what is more challenging to test, why should we refactor if our tests are too complex because we have an architecture problem, what parts are more likely to be problematic. Still, there is usually doubt, risk and terror.
 
-![](https://media.giphy.com/media/2O6tu9nmJ8kYo/giphy.gif)
+![](https://media.giphy.com/media/Qw4X3FN8Elnz2ew3UFa/giphy.gif)
 
-However, when you're in a small but experienced agency like mine, you need to have metrics, you need to rely on excellent services, so you save all the time possible to do what it gives value to the company. We're continually iterating the process to be better (otherwise what's the fun in doing everything always the same way right? :-)) and we're happy with our processes now, but we always need to be open for improvement.
+However, when you're in a small agency like mine, you need to have metrics, you need to rely on excellent services, so you save all the time possible to do what it gives value to the company. We need to improve the process every time (otherwise what's the fun in doing everything always the same way right? :-)).
 
 # The Journey
 
-Start with code reviews, we defined the user story and estimated the cost of development (more on this on the following article), a member of the team got to it, implemented it and created a PR on GitHub.
+Our journey for a better code starts with reviews, we defined the user story and estimated the cost of development (more on this on the following article), a member of the team got to it, implemented it and created a PR on GitHub.
 
 The first step, in this case, assures two checks are passing within the PR:
 
-- **Gitlab CI** would run the tests and tell us if they passed
+- **Gitlab CI** would run the tests and tell us if they passed.
 - **Codacy** tells us if there were significant regressions in terms of code complexity, code duplication, standards, and code coverage.
 
 If the checks pass at least a developer in the team reviews the PR code for clarity, good patterns, functionality. If everything goes well, the code gets merged to the release branch and, when the sprint ends, to master. We can never remove the human interaction since code patterns, architecture and naming are so dependant on the domain and context of the application.
+
+![](/../assets/images/ci-codacy.png)
 
 [Codacy](https://codacy.com) brings us more functionality than other contenders, such as [Danger](https://danger.systems/) or [Code Climate](https://codeclimate.com/), but if you don't like it, you might check it out those. We chose Codacy over the others because it gave us better progress feedback, and they have excellent code coverage integration, much easier to set up than Code Climate (for example). It gave us more than Danger since Danger is usually more used as linter but doesn't get anything regarding code coverage.
 
