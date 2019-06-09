@@ -8,3 +8,4 @@ published: false
 - Release project code on GH
 - Add intents on Dialogflow
 - Configure Webhook or fullfillment
+- Sync command for Sheets API
