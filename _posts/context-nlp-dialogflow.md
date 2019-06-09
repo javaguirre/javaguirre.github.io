@@ -1,7 +1,7 @@
 ---
 title: Dialogflow, using context to create a trivia game
 date: 2019-05-22 22:21:00 +0000
-tags: git
+tags: dialogflow nlp
 published: false
 ---
 
@@ -9,13 +9,15 @@ Dialogflow is the NLP service from Google, where you can create a bot using natu
 
 [Image or video showing the trivia game]()
 
-A couple of months ago we were hired to make a chatbot for a well known Spanish media corporation, the conversational assistant would do different things, but one of the most interesting in terms of how to get the most out of Dialogflow was a trivia game.
+A couple of months ago a well-known Spanish media company hired us to build a chatbot. The conversational assistant would do different things, but one of the most interesting in terms of how to get the most out of Dialogflow contexts was a trivia game.
 
-We'd have a Google Spreadsheet with a question, an id and an answer that we'll use to reply to the user interacting with our bot, and also to check if the answer the question right. This way someone non technical could add as many questions as they want, and with some logic we could synchronise all these questions with Dialogflow, but that's a topic for another article. :-)
+We'd have a Google Spreadsheet with a question, an id and an answer that we'll use to reply to the user interacting with our bot, and also to check if the answer the question right. This way someone non technical could add as many questions as they want, and with some logic we could synchronise all these questions with Dialogflow.
+
+We'll release the code of the Trivia game soon enough, but today I'm gonna show you how I used contexts to implement the game
 
 # Contexts
 
-To achieve this in the simplest way possible, we'll need to use Contexts. Contexts represents the current state of the user request and allows us to carry information throughout the users session as long as we want.
+To achieve this the simplest way possible, we'll need to use Contexts. Contexts represents the current state of the user request and allows us to carry information throughout the users session as long as we want.
 
 Contexts are possibly the most powerful feature in Dialogflow, you can do almost anything with it. I'll show you how I created a simple Trivia game using two intents and Context.
 
