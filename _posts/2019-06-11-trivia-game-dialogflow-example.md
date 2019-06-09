@@ -5,4 +5,6 @@ tags: dialogflow nlp
 published: false
 ---
 
-Part 3
+- Release project code on GH
+- Add intents on Dialogflow
+- Configure Webhook or fullfillment
