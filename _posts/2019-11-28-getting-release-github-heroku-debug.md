@@ -1,6 +1,6 @@
 ---
 title: Get release tag from GitHub Actions to debug on Heroku
-date: 2019-11-29 09:00:00 +0000
+date: 2019-11-28 09:00:00 +0000
 tags: github actions cicd heroku
 published: true
 ---
