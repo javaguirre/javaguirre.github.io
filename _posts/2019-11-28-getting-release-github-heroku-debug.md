@@ -36,6 +36,7 @@ steps:
  - name: Push to Heroku
    run: git push -f https://heroku:${{ secrets.HEROKU_API_TOKEN }}@git.heroku.com/${{ secrets.HEROKU_APP_PRODUCTION }}.git origin/master:master
  - name: Update RELEASE_VERSION on Heroku production
+   if: success()
    run: |
     curl -n -X PATCH https://api.heroku.com/apps/${{ secrets.HEROKU_APP_PRODUCTION }}/config-vars \
     -d '{
