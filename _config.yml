@@ -22,6 +22,11 @@ github_username: javaguirre
 minimal_mistakes_skin: air
 search: true
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-117613837-2"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
