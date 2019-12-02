@@ -31,6 +31,7 @@ We deploy to Heroku where is super easy to set a config variable via API, so we 
 - Update a `RELEASE_VERSION` variable on Heroku every time a new deploy is successful.
 - Profit!
 
+{% raw %}
 ```yaml
 steps:
  - name: Push to Heroku
@@ -46,6 +47,7 @@ steps:
     -H "Content-Type: application/json" \
     -H "Accept: application/vnd.heroku+json; version=3"
 ```
+{% endraw %}
 
 We need to set two variables:
 
