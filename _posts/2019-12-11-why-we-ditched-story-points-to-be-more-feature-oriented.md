@@ -27,6 +27,6 @@ This new way of working makes it more natural to have other advantages for the t
 
 In the case of engineering tasks and reducing technical debt, we follow the rule 'leave the campground better than you found it.' I have adopted that rule for years since I read [Clean Code](https://www.amazon.es/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), but all the team must stay in tune, so every time we do a feature, we can clean up the area where we are going to work. We're exhaustive on testing and good quality code to avoid technical debt. We also try to move the QA phase of the feature as soon as possible and not only when it's done. Once we ship, the feature shouldn't come back with defects in it; otherwise, It disrupts our development pace.
 
-We haven't invented this way of working. Some of the tips are from the Influence of the **Nature of Software Development and Clean Code**, among other books. We're always iterating to improve our processes and learning new things so that these changes might vary in the future.
+We haven't invented this way of working. Some of the tips are from the Influence of the **Nature of Software Development and Clean Code**, among other books. We're always iterating to improve our processes and learning new things so that these changes will vary in the future.
 
 ![](https://media.giphy.com/media/6brH8dM3zeMyA/giphy.gif)
