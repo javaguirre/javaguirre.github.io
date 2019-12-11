@@ -1,7 +1,7 @@
 ---
 title: Why we ditched story points to be more value-oriented
 date: 2019-12-11 09:00:00 +0000
-tags: quality code feature delivery
+tags: quality product feature delivery
 published: true
 ---
 
