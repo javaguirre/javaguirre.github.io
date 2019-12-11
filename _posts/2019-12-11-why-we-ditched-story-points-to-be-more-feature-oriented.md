@@ -1,5 +1,5 @@
 ---
-title: Why we ditched story points to be more feature oriented
+title: Why we ditched story points to be more value-oriented
 date: 2019-12-11 09:00:00 +0000
 tags: quality code feature delivery
 published: true
