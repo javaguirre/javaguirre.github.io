@@ -8,11 +8,11 @@ published: false
 Webhooks have been on Dialogflow for a long time, but if you want to have more versatility
 controlling the responses, you need to use Fulfillment through a Firebase function.
 
-how can we upgrade from webhooks to a Firebase function without losing our webhook functionality?
+How can we upgrade from webhooks to a Firebase function without losing our webhook functionality?
 
 Given we had a webhook on a certain url `myurl` used by an intent, we could do the following.
 
-First, we'd need to set the intent in the intentMap so we can create a new handler for this intent and put our webhook on it.
+First, we need to set the intent in the intentMap so we can create a new handler for this intent and put our webhook on it.
 
 ...
 
@@ -23,8 +23,6 @@ After those two steps we need to create our handler, it will make the request to
 [Set code and output of the webhook so we see what we have to parse for the agent.]
 
 Debugging is easy for firebase functions, we could see the logs on Firebase, Dialogflow gives us a link below the firebase function for quick access.
-
-
 
 ```javascript
 // See https://github.com/dialogflow/dialogflow-fulfillment-nodejs
