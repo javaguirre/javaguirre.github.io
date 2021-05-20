@@ -21,7 +21,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Rock music, avid reader, GIF oriented. Love testing and clean code.
 twitter_username: javaguirre
 github_username: javaguirre
-minimal_mistakes_skin: air
+instagram_username: javaguirre_me
+# TODO YOUTUBE in the future
+minimal_mistakes_skin: contrast
 search: true
 
 analytics:
@@ -96,6 +98,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/javaguirre"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/javaguirre_me"
 
 defaults:
   # _posts
