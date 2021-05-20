@@ -2,7 +2,7 @@
 title: Upgrade from WebHook to Firebase function on dialogflow
 date: 2019-05-22 22:21:00 +0000
 tags: git
-published: false
+published: true
 ---
 
 Webhooks have been on Dialogflow for a long time, but if you want to have more versatility
