@@ -14,7 +14,7 @@ People were stressed to finish their points, and they couldn't focus on helping 
 
 Having story points wasn't pointing us to build faster or with more quality. User story points weren't focusing the work on value but rather on risk, time, and complexity of the user story and features. 1-week sprints were making everything worse due to this fact when we finished features that weren't good enough to put in production and were coming back to haunt us.
 
-![](https://media.giphy.com/media/26hitt0thlwfoNRaE/giphy.gif)
+![](https://media.giphy.com/media/26DMVA1ArEk3TOrte/giphy.gif)
 
 We always like to iterate on processes to improve it and reduce friction at maximum, so everybody is comfortable working and focusing on delivering as much value as possible. With this idea, we decided to focus much more on delivery, following some rules.
 
