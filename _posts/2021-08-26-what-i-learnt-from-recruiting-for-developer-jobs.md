@@ -33,7 +33,7 @@ you're interested in 5, but if you are in 30 and don't have an HR person to do i
 
 But due to this fact, a candidate is not very different from another, and you get the differences (sometimes) if you open all the PDFs.
 
-## We want to work how you work and what you know
+## We want to know how you work and what you know
 
 **It's difficult to differentiate from the rest if you just have a PDF CV**, no LinkedIn detailed information, or no GitHub or articles.
 
