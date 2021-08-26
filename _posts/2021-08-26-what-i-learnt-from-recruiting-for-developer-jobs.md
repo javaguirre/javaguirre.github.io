@@ -9,7 +9,7 @@ Recruiting, something many of us have suffered more than enjoyed due to the vora
 tech world.
 
 In several occasions candidates applying have asked me for feedback, here I compile the ideas they told me
-had found useful.
+had found useful from what I learned.
 
 ## TL;DR
 
