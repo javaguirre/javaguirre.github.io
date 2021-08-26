@@ -1,7 +1,7 @@
 ---
 title: What I learned from recruiting for developer jobs
 date: 2021-08-26 09:00:00 +0000
-tags: startup
+tags: startup, junior
 published: true
 ---
 
@@ -10,7 +10,7 @@ published: true
 We don't need a PDF/paper CV, show how you work by sharing articles, your
 code on GitHub, your contributions on different blogging platforms, videos on YouTube.
 
-Companies hiring get a great glimpse of who you are if you can share it with the world.
+**Companies hiring get a great glimpse** of who you are if you can share it with the world.
 
 ![](https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif)
 
@@ -29,16 +29,16 @@ But due to this fact, a candidate is not very different from another, and you ge
 
 ## We want to work how you work and what you know
 
-It's difficult to differentiate from the rest if you just have a PDF CV, no LinkedIn detailed information, or no GitHub or articles.
+**It's difficult to differentiate from the rest if you just have a PDF CV**, no LinkedIn detailed information, or no GitHub or articles.
 
 ## Pay for the thing
 
-If you are on a LinkedIn job process, pay for the lower level subscription, it gives you information about the position you're applying to and you can
+**If you are on a LinkedIn job process, pay for the lower level subscription**, it gives you information about the position you're applying to and you can
 adapt your information better to the offer. It's not about lying, but about improving the communication of your personal brand.
 
 ## We all have personal brands
 
-If we want to choose better job positions, we all need to take care of our personal brand. I realized that late since what I really liked was just programming and not taking care of my brand, but I
+**If we want to choose better job positions, we all need to take care of our personal brand**. I realized that late since what I really liked was just programming and not taking care of my brand, but I
 learned on time. Take care of what you are communicating and showing (good and bad) in the networks you use professionally. Try to communicate what you do and know even if
 you don't have a job. I hire some people on the spot just because of that. That shows proactivity and eagerness to learn which are two very important skills.
 
@@ -50,14 +50,14 @@ A video about yourself is a bonus, you learn so much from It in terms of communi
 
 ## Community
 
-Nowadays developer communities can give you a lot of information on how the market goes, what are the best companies to work on and most of all finding nice people to learn from. I meet the most interesting
+**Nowadays developer communities can give you a lot of information on how the market goes**, what are the best companies to work on and most of all finding nice people to learn from. I meet the most interesting
 people in the Python Madrid group and I'm super happy to have been part of that community. It's also very appealing and gives the same good proactivity and passion vibes companies would like in the people
 they hire.
 
 ![](https://media.giphy.com/media/zPOErRpLtHWbm/giphy.gif)
 
 Participating in a Free Software/Open Source project is always very interesting. Even if it's only helping with the documentation at the beginning, It's a very relevant action to
-point your career in the direction you want. For example, finding a project you like and It's being used in a company you want to work on. Reading code from our favorite projects
+**point your career in the direction you want**. For example, finding a project you like and It's being used in a company you want to work on. Reading code from our favorite projects
 is also an amazing way of improving our coding skills and essential IMHO.
 
 ## Targetting a company
