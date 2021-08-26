@@ -1,9 +1,15 @@
 ---
 title: What I learned from recruiting for developer jobs
 date: 2021-08-26 09:00:00 +0000
-tags: startup, junior
+tags: startup junior recruiting
 published: true
 ---
+
+Recruiting, something many of us have suffered more than enjoyed due to the voracious, aggressive and competitive
+tech world.
+
+In several occasions candidates applying have asked me for feedback, here I compile the ideas they told me
+had found useful.
 
 ## TL;DR
 
