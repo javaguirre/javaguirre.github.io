@@ -2,7 +2,7 @@
 title: In technology, as in guitar, to go fast you need to go slow first
 date: 2021-05-20 09:00:00 +0000
 tags: TODO
-published: true
+published: false
 ---
 
 Hi! Captain Obvious here probably for some people. As when we start learning an instrument, we cannot think we can start playing Jimmy Page's riff with a couple hours of practice, we need to interiorize the ideas and first think without coding, evaluate what we want to do and design the solution, designing is always less time costly than coding and refactor a different solution.
