@@ -68,22 +68,22 @@ is also an amazing way of improving our coding skills and essential IMHO.
 
 ## Targetting a company
 
-- Check if they have StackShare or find a way to look for what tech they use.
-- Check if they have GitHub
+- Check if they have [StackShare](https://stackshare.com) or find a way to look for what tech they use.
+- Check if they have [GitHub](https://github.com)
 - Check the relevant people in the company on LinkedIn, Send an Inmail message if they don't have positions open, try to amaze them with something you've done.
 - Take advantage of the possibilities we have nowadays!
 
 ## Technical tests
 
 - Don't be afraid, you already have a no for an answer
-- Abstract functionality (read Clean Code)
-- Automated testing (unit test, integration, e2e) is a must
+- Abstract functionality (reading [Clean Code by Robert C. Martin is a good start](https://www.oreilly.com/library/view/clean-code-a/9780136083238/))
+- Automated testing (unittest, integration, e2e) is a must
 
-## Don'ts
+## Interviews
 
 - Nobody wants to listen to how bad your previous company was
 - Talk about how would you be relevant in the position they are offering
-- Try to give alternatives whenever there is something you don't have (I don't have Angular but I've worked with React and I could adapt...)
+- Try to give alternatives whenever there is something you don't have (I don't have *Angular* but I've worked with React and I could adapt...)
 
 ## Conclusion
 
@@ -91,7 +91,7 @@ The more hints we give the company on how we work without even knowing us the be
 the more chances will be for you to get an interview.
 
 If you want to work remotely and a company to trust you, you can start showing it in what you do now without even starting to work with them. Show them autonomy and proactivity and
-that you are a Manager of One.
+that you are a [Manager of One](https://signalvnoise.com/posts/1430-hire-managers-of-one).
 
 This was only what I've learned from being on both sides of the coin for years, but your path might be different than what I experienced. Let me know if that's the case!
 

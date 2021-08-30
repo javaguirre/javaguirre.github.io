@@ -16,7 +16,7 @@ les han servido de algo de lo que he aprendido.
 Las empresas en general no necesitamos un CV de papel/PDF, sino ver cómo trabajas a través de los artículos, código en GitHub,
 contribuciones en distintas redes especializadas o blogs, incluso videos en YouTube.
 
-**Las empresas que contratan pueden tener una magnnífica visión** de quién eres si compartes con el mundo.
+**Las empresas que contratan pueden tener una magnífica visión** de quién eres si compartes con el mundo.
 
 ![](https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif)
 
@@ -29,7 +29,7 @@ las ofertas de trabajo que publicábamos.
 En los primeros procesos en los que participé no tenía ni idea de por dónde empezar y fue más una cuestión de contactos y de personas
 que estudiaron conmigo y en las que confiaba para hacerlo bien. Más adelante iteramos hacia la típica
 "lista de la compra" de recursos que había que cumplir y en poner un sueldo en mercado, en lo que la empresa busca. Posteriormente moverlo tímidamente
-por grupos de desarrollo como Python ES cumpliendo con las normas de compartir este tipo de ofertas en esos grupos.
+por grupos de desarrollo como [Python ES](https://www.es.python.org/) cumpliendo con las normas de compartir este tipo de ofertas en esos grupos.
 
 Tras unos cuantos procesos y tener un poco más de experiencia empecé a ver una tendencia en la industria que iba en la dirección, no de buscar un
 candidato, sino de centrarse completamente en las necesidades de éste y en hacer el trabajo atractivo y realista para él, entender cuál iba a ser el día a
@@ -71,28 +71,28 @@ Participar en proyectos de Software Libre/Open Source siempre es interesante, in
 
 ## Dirigiéndome a una empresa
 
-- Comprobar si tienen StackShare o encontrar una manera de conocer su stack y qué utilizan a bajo nivel.
-- Comprobar su GitHub
+- Comprobar si tienen [StackShare](https://stackshare.com) o encontrar una manera de conocer su stack y qué utilizan a bajo nivel.
+- Comprobar su [GitHub](https://github.com)
 - Comprobar a las personas relevantes que trabajan en esa empresa en LinkedIn, enviarles algún mensaje personal InMail incluso si no tienen posiciones abiertas, intentar sorprenderles con algo que hayas hecho.
 - ¡Usar las posibilidades que tenemos hoy en día en nuestro beneficio!
 
 ## Tests técnicos
 
 - No hay que tener miedo a estos tests, ya tenemos el no de entrada
-- Abstraer funcionalidad (El Clean Code es un buen sitio para empezar)
+- Abstraer funcionalidad (El [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/) es un buen sitio para empezar)
 - Tests automatizados, como el buen cocinero, tenemos que probar lo que cocinamos antes de servirlo
 
-## No mola
+## Entrevistas
 
 - A nadie le interesa saber lo mal que lo hacía la empresa en la que trabajaba anteriormente
 - Si nos piden un video para conocernos antes de la entrevista, enfocarlo hacia mis habilidades con respecto a la oferta, no hacia nosotros. En un minuto de video podemos ahorrar muchas entrevistas, mejor preparar bien lo que podemos decir.
-- Si no tenemos alguna habilidad que nos preguntan o no conocemos la respuesta a algo, intentar dar una respuesta alternativa con alguna habilidad parecida que tengamos o dejar muy claro que no sabemos la respuesta, mostrar capacidad de adaptación (Angular vs React, etc).
+- Si no tenemos alguna habilidad que nos preguntan o no conocemos la respuesta a algo, intentar dar una respuesta alternativa con alguna habilidad parecida que tengamos o dejar muy claro que no sabemos la respuesta, mostrar capacidad de adaptación (*Angular vs React*, etc).
 
 ## Conclusión
 
 Cuantas más pistas demos a la empresa que me interesa sobre cómo trabajamos para llamar a su puerta mejor, es una primera impresión difícil de batir y es una buena manera de focalizar la futura entrevista hacia el contexto que nosotros hemos trabajado con nuestra marca personal.
 
-Si quieres trabajar en remoto y que una empresa confíe en tí, puedes empezar a mostrarlo en lo que haces ahora. Mostrar autonomía ser dueños de nuestra carrera, y poder elegir en vez de que nos elijan está en esta industria en nuestra mano. Ser un Manager Of One.
+Si quieres trabajar en remoto y que una empresa confíe en tí, puedes empezar a mostrarlo en lo que haces ahora. Mostrar autonomía ser dueños de nuestra carrera, y poder elegir en vez de que nos elijan está en esta industria en nuestra mano. Ser un [Manager Of One](https://signalvnoise.com/posts/1430-hire-managers-of-one).
 
 Estas son algunas de las cosas que he aprendido al haber estado en ambos lados (developer y recruiting) desde hace varios años, pero tu experiencia puede ser distinta a la mía, me encantaría que lo compartieses conmigo si tienes ocasión.
 
