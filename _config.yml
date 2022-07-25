@@ -23,7 +23,7 @@ twitter_username: javaguirre
 github_username: javaguirre
 instagram_username: javaguirre_me
 # TODO YOUTUBE in the future
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: air
 search: true
 
 # analytics:
@@ -67,9 +67,7 @@ author:
   name   : "Javier Aguirre"
   avatar : "/assets/images/profile.jpg"
   bio    : >-
-   Software Architect and Product Owner.
-   Obsessed with process optimization, good project management and learning every day.
-   Love guitar, avid reader, GIF oriented. Love testing and clean code.
+
   links:
     - label: "Wealize"
       icon: "fas fa-fw fa-link"
