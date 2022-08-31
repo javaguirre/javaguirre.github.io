@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Hi! I'm Javier Aguirre, software architect and product owner, co-founder @ [Wealize](https://wealize.digital).
+Hi! I'm Javier Aguirre, software architect and product owner.
 
 I am happy guy who likes what he does for a living, learning and solving all kind of problems with software, healthy environments and nice people. I am obsessed with learning new ways of improving himself and stay awake in the technology world. Believes in the startup way of thinking to make an adaptable and resourceful person.
 
