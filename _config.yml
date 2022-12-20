@@ -23,7 +23,7 @@ twitter_username: javaguirre
 github_username: javaguirre
 instagram_username: javaguirre_me
 # TODO YOUTUBE in the future
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: air
 search: true
 
 # analytics:
@@ -65,7 +65,7 @@ plugins:
 
 author:
   name   : "Javier Aguirre"
-  avatar : "/assets/images/profile.png"
+  avatar : ""
   bio    : >-
 
   links:
