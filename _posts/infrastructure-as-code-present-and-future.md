@@ -2,7 +2,7 @@
 title: Infrastructure as code, present and future
 date: 2021-05-20 09:00:00 +0000
 tags: TODO
-published: true
+published: false
 ---
 
 Infrastructure as code is the present and the future of managing infrastructure. Declarative model and
