@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Software Engineering
+title: Javier Aguirre
 email: contacto@javaguirre.net
 description: >- # this means to ignore newlines until "baseurl:"
   Obsessed with good quality and process optimization, good project management and learning every day.
@@ -62,9 +62,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Javier Aguirre"
+  # name: "Javier Aguirre"
   # avatar: "/assets/images/profile.png"
-  bio: >-
+  # bio: >-
 
   links:
     - label: "LinkedIn"
