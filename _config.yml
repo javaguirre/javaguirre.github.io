@@ -64,7 +64,12 @@ plugins:
 author:
   # name: "Javier Aguirre"
   # avatar: "/assets/images/profile.png"
-  # bio: >-
+  bio: >-
+    Hi! I'm Javi, I'm a full-stack product engineer with backend and infrastructure as my strongest skills.
+    I'm passionate about good quality and process optimization,
+    good project management and learning every day.
+
+    I love guitar and music, avid reader. Love testing and clean code.
 
   links:
     - label: "LinkedIn"
