@@ -2,7 +2,7 @@
 title: Cuando la gente se va
 date: 2021-09-13 09:00:00 +0000
 tags: people spanish
-published: true
+published: false
 ---
 
 Si alguien me pregunta qué es lo mejor de tener una empresa diría sin dudarlo que son las personas con las que te cruzas.
