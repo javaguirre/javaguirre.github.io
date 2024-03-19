@@ -74,30 +74,18 @@ author:
     - label: "Dev.to"
       icon: "fas fa-fw fa-link"
       url: "https://dev.to/javaguirre"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/javaguirre"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/javaguirre"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/javaguirre_me"
 
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/javaguirre/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/javaguirre"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/javaguirre"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/javaguirre_me"
 
 defaults:
   # _posts
