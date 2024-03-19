@@ -2,7 +2,7 @@
 title: Career path Wealize
 date: 2022-06-01 09:00:00 +0000
 tags: leadership
-published: true
+published: false
 ---
 
 > Para mantener y mejorar un estilo de vida, hay pocas cosas que afecten más, positiva y negativamente, que el trabajo que hacemos día a día.
