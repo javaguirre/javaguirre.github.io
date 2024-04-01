@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://javaguirre.me/new-site-test/"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Javi Aguirre"
 theme: hugo-profile
 
 outputs:
@@ -12,7 +12,7 @@ outputs:
     - "HTML"
     - "RSS"
 
-Paginate: 3
+Paginate: 9
 enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
 # googleAnalytics: G-MEASUREMENT_ID
@@ -111,7 +111,7 @@ params:
       disableAbout: false
       disableExperience: false
       disableEducation: true
-      disableProjects: false
+      disableProjects: true
       disableAchievements: true
       disableContact: true
 
