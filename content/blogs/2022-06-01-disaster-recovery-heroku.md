@@ -2,7 +2,7 @@
 title: Disaster recovery in Heroku for Wealize
 date: 2022-06-01 09:00:00 +0000
 tags: [heroku,recovery]
-published: false
+published: true
 ---
 
 ## Index
