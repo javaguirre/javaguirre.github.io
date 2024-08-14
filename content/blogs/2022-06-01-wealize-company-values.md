@@ -7,7 +7,7 @@ published: true
 
 # Wealize Company Values
 
-As a founder of my previous company, I was deeply involved in cultivating a set of core values that did more than just shape our corporate culture—they propelled us towards innovation, excellence, and a distinct way of doing business. I'm sharing these values to illuminate our approach, the rationale behind our strategic decisions, and the ethos that underpinned our daily operations. This reflection isn't merely a look back at our achievements; it's an invitation to understand the foundational principles that drove us and can serve as a beacon for others who aspire to innovate with integrity and purpose.
+As a founder of my own company, I was deeply involved in cultivating a set of core values that did more than just shape our corporate culture—they propelled us towards innovation, excellence, and a distinct way of doing business. I'm sharing these values to illuminate our approach, the rationale behind our strategic decisions, and the ethos that underpinned our daily operations. This reflection isn't merely a look back at our achievements; it's an invitation to understand the foundational principles that drove us and can serve as a beacon for others who aspire to innovate with integrity and purpose.
 
 **Wealize Company Values**
 
