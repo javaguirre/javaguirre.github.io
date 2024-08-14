@@ -1,8 +1,8 @@
 ---
-title: Wealiize Company Values
+title: Wealize Company Values
 date: 2022-06-01 09:00:00 +0000
 tags: [leadership]
-published: false
+published: true
 ---
 
 # Wealize Company Values
